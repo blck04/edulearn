@@ -20,8 +20,12 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
+  justify-content: center;
   background: linear-gradient(135deg, #4e73df 0%, #36b9cc 100%);
   padding: 20px;
+}
+.col-lg-4{
+  width: 500px;
 }
 
 .login-card {
